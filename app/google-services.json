@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "928275186648",
+    "firebase_url": "https://ticketbookingapp-f691c.firebaseio.com",
+    "project_id": "ticketbookingapp-f691c",
+    "storage_bucket": "ticketbookingapp-f691c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928275186648:android:78c0717e699923a8",
+        "android_client_info": {
+          "package_name": "com.lilliemountain.ticketbookingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928275186648-9aijfru1rhau15c9revoo72p3gpf8okg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lilliemountain.ticketbookingapp",
+            "certificate_hash": "5bbc59296eee597bcc7f77821f7beb31ecf7df73"
+          }
+        },
+        {
+          "client_id": "928275186648-of5m3c095cu719tjt0r7pjie52fbrnhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByTwxmHrmkR01hfFRoMX28iiaAq8Kqyh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928275186648-of5m3c095cu719tjt0r7pjie52fbrnhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
